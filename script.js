@@ -1,6 +1,7 @@
 ﻿"use strict";
-a = 6;
-console.log(a)
+
+
+
 var leftBorderWidth = 1;
 {
     let second = 2;  
